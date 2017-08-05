@@ -1,3 +1,6 @@
+PRODUCT_PACKAGES += \
+    libprotobuf-cpp-full
+
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.data.target=dpm1 \
